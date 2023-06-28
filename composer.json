@@ -4,7 +4,10 @@
     "license": "LTS",
     "autoload": {
         "psr-4": {
-            "Spukm01075\\PruebaMysql\\": "src/"
+            "App\\": [
+                "src/",
+                "src/campers.php"
+            ]
         }
     },
     "authors": [
