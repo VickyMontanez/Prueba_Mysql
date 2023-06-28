@@ -19,7 +19,7 @@ Se creó la base de datos local-mente desde la terminal, para acceder a ella se 
 
 ###### *implementada en phpMyAdmin*
 
-![](https://raw.githubusercontent.com/VickyMontanezCampus/Prueba_Mysql /master/img/DATABASE_MYSQL.png)
+![](https://raw.githubusercontent.com/VickyMontanezCampus/Prueba_Mysql/master/img/DATABASE_MYSQL.png)
 
 #### ESTADO DEL PROYECTO
 
