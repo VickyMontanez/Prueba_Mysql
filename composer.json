@@ -1,0 +1,19 @@
+{
+    "name": "spukm01-075/prueba_mysql",
+    "description": "...",
+    "license": "LTS",
+    "autoload": {
+        "psr-4": {
+            "Spukm01075\\PruebaMysql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VickyMontanezCampus",
+            "email": "vmontanez707@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
